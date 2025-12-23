@@ -1,0 +1,249 @@
+{
+  "document_metadata": {
+    "title": "OPERAT SZACUNKOWY",
+    "subtitle": "Wycena wartości rynkowej prawa własności nieruchomości gruntowej zabudowanej",
+    "document_date": "2022-07-06",
+    "valuation_date": "2022-06-29",
+    "inspection_date": "2022-06-29",
+    "location_of_signing": "Pabianice",
+    "author": {
+      "name": "Elżbieta Marzencka-Kopeć",
+      "title": "Rzeczoznawca Majątkowy",
+      "license_number": "6314",
+      "company": "Nova22 Elżbieta Marzencka-Kopeć",
+      "contact": {
+        "address": "95-200 Pabianice, ul. Wileńska 81A",
+        "phone": "601-795-428"
+      }
+    },
+    "purpose_of_valuation": "Uzyskanie zgody w drodze decyzji Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa (KOWR) oraz dla celów sprawozdań finansowych i księgowych."
+  },
+  "property_overview": {
+    "address": "Marcinów 33",
+    "locality": "Marcinów",
+    "municipality": "Zadzim",
+    "district": "poddębicki",
+    "voivodeship": "łódzkie",
+    "precinct": "Obręb 17, Marcinów",
+    "total_area_ha": 6.3931,
+    "total_market_value_pln": 668700,
+    "value_in_words": "sześćset sześćdziesiąt osiem tysięcy siedemset złotych",
+    "owner": "Fundacja Cohabitat z siedzibą w Łodzi (udział 1/1)"
+  },
+  "land_registry_data": [
+    {
+      "kw_number": "SR2L/00037346/0",
+      "plots_included": ["126/1", "126/4", "126/5"],
+      "mortgages": {
+        "entry_id": "3",
+        "type": "Hipoteka umowna łączna",
+        "amount": "75,000 PLN",
+        "creditor": "Krzysztof Zbigniew Candrowicz"
+      },
+      "easements": "Służebność osobista i prawo użytkowania (Honarata Kwapiszewska)"
+    },
+    {
+      "kw_number": "SR2L/00008214/4",
+      "plots_included": ["126/2", "126/3", "126/6", "126/7"],
+      "mortgages": {
+        "entry_id": "1",
+        "type": "Hipoteka umowna łączna",
+        "amount": "75,000 PLN",
+        "creditor": "Krzysztof Zbigniew Candrowicz"
+      },
+      "easements": "Służebność osobista i prawo użytkowania (Honarata Kwapiszewska)"
+    }
+  ],
+  "plot_details": [
+    {
+      "plot_number": "126/1",
+      "area_ha": 5.9437,
+      "land_class": "RVI (grunty orne)",
+      "usage": "Rolna",
+      "kw_source": "SR2L/00037346/0",
+      "description": "Działka rolna, nieregularny kształt, zadrzewiona/zakrzewiona.",
+      "valuation_pln": 189000
+    },
+    {
+      "plot_number": "126/2",
+      "area_ha": 0.1351,
+      "land_class": "RVI",
+      "usage": "Wydzielona pod zabudowę zagrodową",
+      "kw_source": "SR2L/00008214/4",
+      "valuation_group": "Działki pod zabudowę (with 126/3,6,7)"
+    },
+    {
+      "plot_number": "126/3",
+      "area_ha": 0.1351,
+      "land_class": "RVI",
+      "usage": "Wydzielona pod zabudowę zagrodową",
+      "kw_source": "SR2L/00008214/4",
+      "valuation_group": "Działki pod zabudowę"
+    },
+    {
+      "plot_number": "126/4",
+      "area_ha": 0.1164,
+      "land_class": "RVI",
+      "usage": "Droga wewnętrzna",
+      "kw_source": "SR2L/00037346/0",
+      "description": "Stanowiąca drogę wewnętrzną."
+    },
+    {
+      "plot_number": "126/5",
+      "area_ha": 0.3330,
+      "land_class": "Br-RVI (grunty rolne zabudowane) / RVI",
+      "usage": "Zabudowana (Siedlisko)",
+      "kw_source": "SR2L/00037346/0",
+      "description": "Zabudowana budynkiem mieszkalnym, mieszkalno-gospodarczym oraz dwoma gospodarczymi. Przystosowywana pod agroturystykę.",
+      "valuation_pln": 420400
+    },
+    {
+      "plot_number": "126/6",
+      "area_ha": 0.1578,
+      "land_class": "RVI",
+      "usage": "Wydzielona pod zabudowę zagrodową",
+      "kw_source": "SR2L/00008214/4",
+      "valuation_group": "Działki pod zabudowę"
+    },
+    {
+      "plot_number": "126/7",
+      "area_ha": 0.1389,
+      "land_class": "Br-RVI / RVI",
+      "usage": "Wydzielona pod zabudowę zagrodową",
+      "kw_source": "SR2L/00008214/4",
+      "valuation_group": "Działki pod zabudowę"
+    }
+  ],
+  "buildings_description": {
+    "total_usable_area_sqm": 138.96,
+    "main_residential_building": {
+      "construction": "Murowana (cegła)",
+      "condition": "Przeciętny (wymaga remontu)",
+      "roof": "Dwuspadowy, papa",
+      "windows": "PCV",
+      "heating": "Piec typu 'koza'",
+      "floors": "Deski drewniane",
+      "rooms": [
+        {"name": "Sień", "area": 9.0},
+        {"name": "Pokój", "area": 23.4},
+        {"name": "Pokój", "area": 19.8},
+        {"name": "Kuchnia + Salon", "area": 15.9},
+        {"name": "Kuchnia + Salon", "area": 16.3}
+      ],
+      "total_area_sqm": 84.40
+    },
+    "barn_converted_residential": {
+      "construction": "Murowana",
+      "condition": "Częściowo mieszkalna, część wylewka betonowa niewykończona",
+      "rooms": [
+        {"name": "Pokój", "area": 9.2},
+        {"name": "Pokój", "area": 14.5},
+        {"name": "Łazienka", "area": 2.2},
+        {"name": "Wiatrołap", "area": 2.6},
+        {"name": "Komunikacja", "area": 2.8},
+        {"name": "Pokój", "area": 12.9},
+        {"name": "Kuchnia", "area": 10.36}
+      ],
+      "total_usable_area_sqm": 54.56
+    },
+    "utility_buildings": {
+      "workshop_kitchen_building": {
+        "description": "Zakład stolarski oraz część kuchenna",
+        "area_sqm": 161.6
+      },
+      "other": "Budynek stodoły (częściowo adaptowany)"
+    }
+  },
+  "valuation_methodology": {
+    "approach": "Podejście porównawcze (Comparative Approach)",
+    "method": "Metoda korygowania ceny średniej (Average Price Adjustment Method) & Metoda porównywania parami (Pairwise Comparison)",
+    "market_analysis": {
+      "area": "Powiat poddębicki",
+      "trend": "Wzrostowy (ceny gruntów rolnych)",
+      "target_market": "Nieruchomości rolne, siedliska, potencjał agroturystyczny"
+    }
+  },
+  "valuation_calculations": [
+    {
+      "component": "Działka 126/5 (Zabudowana)",
+      "method": "Porównywanie parami",
+      "comparable_transactions": [
+        {"location": "Tur", "price_pln": 270000, "price_sqm": 4054},
+        {"location": "Lubola", "price_pln": 117500, "price_sqm": 2374},
+        {"location": "Rąkczyn", "price_pln": 125000, "price_sqm": 2480}
+      ],
+      "attributes_weight": {
+        "Lokalizacja": "20%",
+        "Stan techniczny": "20%",
+        "Potencjał inwestycyjny": "5%",
+        "Dodatkowe zabudowania": "5%",
+        "Pow. budynku": "25%",
+        "Pow. gruntu": "25%"
+      },
+      "calculated_value_pln": 420400
+    },
+    {
+      "component": "Działki pod zabudowę (126/2, 126/3, 126/6, 126/7)",
+      "method": "Porównywanie parami",
+      "comparable_transactions": [
+        {"location": "Jeżew", "price_pln": 285000, "price_sqm": 11.70},
+        {"location": "Bałdrzychów", "price_pln": 335000, "price_sqm": 9.60},
+        {"location": "Dalików", "price_pln": 70000, "price_sqm": 9.20}
+      ],
+      "unit_price_calculated": "10.46 PLN/m2",
+      "total_area_sqm": 5669,
+      "calculated_value_pln": 59300
+    },
+    {
+      "component": "Nieruchomość rolna (Działka 126/1)",
+      "method": "Korygowania ceny średniej",
+      "unit_price_calculated": "3.18 PLN/m2",
+      "area_sqm": 59437,
+      "calculated_value_pln": 189000
+    }
+  ],
+  "infrastructure_and_planning": {
+    "access": "Droga publiczna utwardzona (asfalt), bez chodników/oświetlenia.",
+    "utilities": "Woda z sieci, prąd (EE). Brak kanalizacji (szambo/przydomowa?) - not explicitly detailed but implied rural.",
+    "zoning": "Brak MPZP. Studium: Tereny zabudowy zagrodowej i mieszkaniowej (B) oraz grunty orne (R)."
+  },
+  "attachments_and_evidence": [
+    {
+      "type": "Extract from Land Registry",
+      "date": "2022-07-06"
+    },
+    {
+      "type": "Extract from Register of Lands (Wypis z rejestru gruntów)",
+      "date": "2018-01-15"
+    },
+    {
+      "type": "Notarial Deed (Purchase)",
+      "rep_no": "1873/2016",
+      "date": "2016-04-21",
+      "details": "Umowa sprzedaży. Cena: 230,000 PLN."
+    },
+    {
+      "type": "Notarial Deed (Donation)",
+      "rep_no": "1875/2016",
+      "date": "2016-04-21",
+      "details": "Darowizna na rzecz Fundacji Cohabitat (Sławomir Gut to Foundation)."
+    },
+    {
+      "type": "Insurance Policy",
+      "insurer": "PZU SA",
+      "policy_number": "SRM0012603",
+      "insured": "Nova22 Elżbieta Marzencka-Kopeć",
+      "validity": "18/05/2022 - 17/05/2023",
+      "coverage": "OC Rzeczoznawcy Majątkowego"
+    },
+    {
+      "type": "Maps",
+      "description": "Kopia mapy ewidencyjnej, mapa zasadnicza."
+    },
+    {
+      "type": "Photographic Documentation",
+      "date": "2022-06-29",
+      "count": "Multiple pages of photos (buildings int/ext, plot)"
+    }
+  ]
+}

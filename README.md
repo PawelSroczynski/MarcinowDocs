@@ -88,6 +88,11 @@ Ujęcie działek w strefie planistycznej **SZ** (strefa wielofunkcyjna z zabudow
 
 ## 3. Inwentaryzacja budynków
 
+> **Objaśnienie terminologii:**
+> - **Pow. zabudowy** = powierzchnia rzutu budynku na grunt (footprint)
+> - **Pow. użytkowa** = suma powierzchni wszystkich kondygnacji
+> - Dla budynku 2-kondygnacyjnego: 110 m² × 2 = 220 m² pow. użytkowej
+
 ### 3.1 Budynki mieszkalne (planowane)
 
 | ID | Typ | Kondygnacje | Pow. zabudowy (m²) | Pow. użytkowa (m²) | Wysokość (m) | Lokalizacja |
