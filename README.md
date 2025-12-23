@@ -4,6 +4,15 @@
 
 ---
 
+## Szybki dostęp
+
+| Dokument | Opis |
+|----------|------|
+| **[WNIOSEK_POG_WYPELNIONY.md](WNIOSEK_POG_WYPELNIONY.md)** | Gotowy formularz do przepisania |
+| **[sources/](sources/)** | Dokumenty źródłowe (mapy, PDF, zdjęcia) |
+
+---
+
 ## Spis treści
 
 1. [Informacje ogólne](#1-informacje-ogólne)
